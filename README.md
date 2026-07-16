@@ -1,9 +1,8 @@
 ## 🙎‍♂️ Benim Hakkımda
 
-*   ☁️ **IZMBlock** adındaki Minecraft Skyblock sunucusunun kurucusuyum ve geliştiricisiyim.
-*   🤖 İnsanların tanışıp beraber oyun oynayabileceği topluluğumuz için özel Discord botları kodluyorum.
-*   💻 Sunucu projelerim için **HTML, CSS ve JavaScript** kullanarak çok sayfalı, dinamik web arayüzleri tasarlıyorum.
-*   ⚙️ Minecraft sunucu yönetimi, plugin konfigürasyonları (**SuperiorSkyblock2, WorldGuard, ajLeaderboards, FancyHolograms**) konularında tecrübeliyim.
+*   ☁️ **IZMBlock** adındaki Minecraft Skyblock sunucusunun kurucusuyum.
+*   🤖 İnsanların tanışıp beraber oyun oynayabileceği topluluğumuz için özel Discord botu kodladım
+*   ⚙️ Minecraft sunucu yönetimi, plugin konfigürasyonları (**SuperiorSkyblock2, WorldGuard, FancyHolograms**) konularında tecrübeliyim.
 *   🎯 Şu anki odak noktam: Daha kesintisiz bir oyun deneyimi yaratmak ve IZMBlock topluluğunu büyütmek.
 
 ---
