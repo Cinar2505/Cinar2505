@@ -8,12 +8,27 @@
 
 ---
 
+## 🛠️ Teknoloji ve Araç Çantam
+
+**Geliştirme Dilleri ve Teknolojiler**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Oyun Motorları & Araçlar**  
+![Minecraft](https://img.shields.io/badge/Minecraft-1F8B4C?style=for-the-badge&logo=minecraft&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+---
+
 ## 🚀 Öne Çıkan Projelerim
 
 | Proje Türü | Açıklama | Teknolojiler |
 | :--- | :--- | :--- |
 | ☁️ **IZMBlock** | Kurucusu olduğum, özel ekonomi, sıralama ve eklenti sistemleri barındıran Minecraft Skyblock sunucusu. | `Minecraft`, `SuperiorSkyblock2`, `Plugins` |
 | 🤖 **Topluluk Botu** | Sunucu içi etkileşimi artıran ve insanları bir araya getiren özel Discord botu. | `JavaScript`, `Node.js` |
+| 💻 **Custom Web Arayüzü** | Sunucu için VS Code üzerinde geliştirdiğim çok sayfalı ve yerel depolama özellikli web sitesi. | `HTML`, `CSS`, `JS` |
 
 ---
 
@@ -28,12 +43,12 @@
 
 ## 📫 Bana Ulaşın
 
-<a href="mailto:cinar11byrktr@gmail.com">
+<a href="mailto:seninepostan@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://discord.com/users/1235177606265962538">
+<a href="https://discord.com/users/SENIN_DISCORD_ID">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
-<a href="https://discord.gg/Bae2ASyPQ6">
+<a href="https://discord.gg/SENIN_SUNUCU_LINKIN">
   <img src="https://img.shields.io/badge/IZMBlock%20Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="IZMBlock Discord" />
 </a>
