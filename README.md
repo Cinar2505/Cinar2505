@@ -1,53 +1,44 @@
-## 🙎‍♂️ Benim Hakkımda
+# 👋 Merhaba, ben Cinar2505
 
-*   ☁️ **IZMBlock** adındaki Minecraft Skyblock sunucusunun kurucusuyum.
-*   🤖 İnsanların tanışıp beraber oyun oynayabileceği topluluğumuz için özel Discord botu kodladım
-*   ⚙️ Minecraft sunucu yönetimi, plugin konfigürasyonları (**SuperiorSkyblock2, WorldGuard, FancyHolograms**) konularında tecrübeliyim.
-*   🎯 Şu anki odak noktam: Daha kesintisiz bir oyun deneyimi yaratmak ve IZMBlock topluluğunu büyütmek.
-
----
-
-## 🛠️ Teknoloji ve Araç Çantam
-
-**Geliştirme Dilleri ve Teknolojiler**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Oyun Motorları & Araçlar**  
-![Minecraft](https://img.shields.io/badge/Minecraft-1F8B4C?style=for-the-badge&logo=minecraft&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+*   ☁️ **IZMBlock Skyblock** sunucusunun sahibi ve kurucusuyum. Sunucu içi sistemleri, ekonomiyi ve eklenti optimizasyonlarını geliştirdim.
+*   🤖 Sunucu topluluğumuzun bir araya gelmesini sağlayan ve etkileşimi artıran özel Discord botu kodladım.
+*   🎯 Amacım, her zaman oyuncular için daha akıcı, eğlenceli ve kesintisiz bir oyun deneyimi sunmak.
 
 ---
 
-## 🚀 Öne Çıkan Projelerim
+## 🛠️ Yeteneklerim & Araçlarım
 
-| Proje Türü | Açıklama | Teknolojiler |
-| :--- | :--- | :--- |
-| ☁️ **IZMBlock** | Kurucusu olduğum, özel ekonomi, sıralama ve eklenti sistemleri barındıran Minecraft Skyblock sunucusu. | `Minecraft`, `SuperiorSkyblock2`, `Plugins` |
-| 🤖 **Topluluk Botu** | Sunucu içi etkileşimi artıran ve insanları bir araya getiren özel Discord botu. | `JavaScript`, `Node.js` |
-| 💻 **Custom Web Arayüzü** | Sunucu için VS Code üzerinde geliştirdiğim çok sayfalı ve yerel depolama özellikli web sitesi. | `HTML`, `CSS`, `JS` |
+### 🎮 Sunucu Yönetimi & Web Geliştirme
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### ⚙️ Tercih Ettiğim Araçlar
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-1F8B4C?style=flat-square&logo=minecraft&logoColor=white)
+
+---
+
+## 🚀 Projelerim & Topluluk
+
+*   **☁️ IZM Skyblock**
+    *   Oyuncu sıralamaları ve özel sistemler barındıran ana Minecraft projem.
+*   **🤖 Custom Discord Botu**
+    *   Topluluğumuzun kendi arasında oyunlar oynayabileceği ve sosyalleşebileceği özel entegrasyonlar.
 
 ---
 
 ## 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cinar2505&show_icons=true&theme=tokyonight" alt="Cinar2505's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cinar2505&theme=tokyonight" alt="Cinar2505's Streak" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cinar2505&show_icons=true&theme=dark" alt="Cinar2505's Stats" />
 </p>
 
 ---
 
-## 📫 Bana Ulaşın
+## 📬 Bağlantı & Destek
 
-<a href="mailto:seninepostan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://discord.com/users/SENIN_DISCORD_ID">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-<a href="https://discord.gg/SENIN_SUNUCU_LINKIN">
-  <img src="https://img.shields.io/badge/IZMBlock%20Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="IZMBlock Discord" />
-</a>
+*   ✉️ **E-posta:** cinar11byrktr@gmail.com
+*   👾 **Discord Sunucumuz:** [IZMBlock Discord Sunucusu](https://discord.gg/Bae2ASyPQ6)
